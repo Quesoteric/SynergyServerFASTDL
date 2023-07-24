@@ -19,7 +19,7 @@ WeaponData
 	"primary_ammo"		"HealthAmmo"
 	"secondary_ammo"	"None"
 
-	"weight"		"1"
+	"weight"		"7"
 //	"item_flags"		"82"	// 82, 18
 	"item_flags"		"18"
 
