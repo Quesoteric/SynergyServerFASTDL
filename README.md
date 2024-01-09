@@ -1,5 +1,5 @@
 # SynergyServerFASTDL
-i lied, its l4d2 now
+i lied, its still synergy
 
 
 you're not supposed to be here
